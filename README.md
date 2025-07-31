@@ -5,7 +5,7 @@ This project demonstrates financial analysis using SQL for data extraction and M
 It includes key business and financial metrics such as revenue, cost, profit margin, and monthly sales trends.
 
 ## 🧠 Tools Used
-- PostgreSQL (or MySQL)
+- PostgreSQL
 - Microsoft Excel
 - Git & GitHub
 
